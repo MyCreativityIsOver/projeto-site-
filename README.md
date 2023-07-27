@@ -1,0 +1,14 @@
+# projeto-site
+- projeto interdisciplinar das matérias de análise e desenvolvimento de dados
+- história 
+- programação front-end
+- objetivo:
+- criar e desenvolver um site com o tema sugerido pelos professores Gustavo e Matheus
+- membros:
+- Rayka Birochi
+- Isabele Viana
+- Isadora Viana
+- Gabriel Correia
+- Thomas Appelt
+- Pedro Dias
+- Dayana Vitória
