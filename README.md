@@ -16,11 +16,14 @@
 - uma animação para explicar algo(mínimo)
 - perguntas frequentes, sites externos, material de apoio, minimo 5 perguntas
 
+  <ul>
  <h5> membros:</h5>
-- Rayka Birochi
-- Isabele Viana
-- Isadora Viana
-- Gabriel Correia
-- Thomas Appelt
-- Pedro Dias
-- Dayana Vitória
+ <li>Dayana Vitória</li>
+ <li>Gabriel Correia </li>
+ <li>Isabele Viana</li>
+ <li>Isadora Viana</li>
+ <li>Pedro Dias</li>
+ <li>Rayka Birochi</li>
+  <li>Thomas Appelt</li>
+</ul>
+
