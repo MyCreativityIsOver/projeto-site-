@@ -20,3 +20,11 @@ p{
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   border-style: dotted;
 }
+#paginas{
+    color: white;
+    font-size: 400%;
+    list-style: none;
+}
+div{
+    padding-bottom: 1000px;
+}
