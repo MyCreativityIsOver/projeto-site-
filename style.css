@@ -18,9 +18,12 @@ p{
   border: 15px solid #333;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  border-style: dotted;
+  border-style: hidden;
 }
 .logo{
     height: auto;
     width: 15%;
+}
+.da{
+    background-color: #c55353;
 }
