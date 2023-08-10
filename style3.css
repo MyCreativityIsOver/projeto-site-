@@ -1,3 +1,10 @@
 body {
-    background-color: darkkhaki;
+    background-color: white;
+    text-align: center;
+}
+.testando{
+    max-width: 70%;
+    margin: 0 auto;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
 }
