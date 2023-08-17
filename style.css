@@ -1,6 +1,14 @@
-body {
-    /*padding: 0;*/
+#body {
+    padding: 0;
     text-align: center;
     margin: 0 auto;
     max-width: 70%;
+}
+
+.Listas{
+    list-style: none;
+    padding: 0 auto;
+    display: inline-block;
+    margin-right: 10%;
+    font-size: xx-large;
 }
