@@ -11,5 +11,15 @@ body {
 .lista{
     max-width: 70%;
     margin: 0 auto;
-    list-style: square;
+    list-style: disc;
+}
+.Listas2{
+    list-style: none;
+    padding: 0 auto;
+    display: inline-block;
+    margin-right: 10%;
+    font-size: xx-large;
+}
+.logo{
+    
 }
