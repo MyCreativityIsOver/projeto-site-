@@ -1,6 +1,8 @@
 body {
-    background-color: white;
     text-align: center;
+    border: 6px solid rgba(255, 217, 55);
+    padding: 20px;
+    margin: 0;
 }
 .testando{
     max-width: 70%;
@@ -22,17 +24,25 @@ body {
 }
 .logo{
     height: 0 auto;
-    width: 15%;
+    width: 10%;
     position: absolute;
-    left: 2%;
-    top: 0%;
+    left: 2px;
+    top: 0px;
     z-index: 5;
 }
 header{
-    /*background-color: rgb(197, 83, 83); esse é o rgb da cor da logo*/
+    background-color: rgba(225, 53, 53); /*esse é o rgb da cor da logo*/
+    padding-bottom: 3%;
+    padding: auto 0;
+    position: relative;
 }
 main{
     z-index: 10;
     position: sticky;
 }
 /*ta marcando um aviso porque tem uma linha incompleta propositalmente*/
+header, main, footer {
+    margin-bottom: 20px; /* Espaçamento entre os elementos */
+    padding: 10px;
+    border: 1px solid #ccc;
+}
