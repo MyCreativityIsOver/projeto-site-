@@ -3,6 +3,7 @@
     text-align: center;
     margin: 0 auto;
     max-width: 70%;
+    font-size: 110%;
 }
 
 .Listas{
@@ -11,4 +12,8 @@
     display: inline-block;
     margin-right: 10%;
     font-size: xx-large;
+}
+
+.sublinhado{
+    text-decoration: underline;
 }
