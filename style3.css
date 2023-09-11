@@ -3,6 +3,7 @@ body {
     border: 6px solid rgba(255, 217, 55);
     padding: 20px;
     margin: 0;
+    background-color: rgb(232, 229, 229);
 }
 .testando{
     max-width: 70%;
@@ -21,6 +22,7 @@ body {
     display: inline-block;
     margin-right: 10%;
     font-size: xx-large;
+    padding-left: 24px;
 }
 .logo{
     height: 0 auto;
@@ -40,9 +42,27 @@ main{
     z-index: 10;
     position: sticky;
 }
-/*ta marcando um aviso porque tem uma linha incompleta propositalmente*/
+
 header, main, footer {
     margin-bottom: 20px; /* Espaçamento entre os elementos */
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 4px solid rgba(255, 217, 55);
+    background-color: rgb(246, 84, 84);
+}
+.artes{
+    height: 0 auto;
+    width: 40%;
+    padding: 20px;
+}
+#artes{
+    height: 0 auto;
+    width: 40%;
+    padding: 15px;
+}
+a{ 
+    color: rgba(255, 217, 55);
+    text-decoration: none;
+}
+#título{
+    color: rgba(250, 190, 40);
 }
