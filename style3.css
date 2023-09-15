@@ -10,6 +10,7 @@ body {
     margin: 0 auto;
     padding-top: 0.5%;
     padding-bottom: 0.5%;
+    font-size: large;
 }
 .lista{
     max-width: 70%;
@@ -65,4 +66,9 @@ a{
 }
 #título{
     color: rgba(250, 190, 40);
+    font-size: 70px;
+    font-size-adjust: initial
+}
+.subtítulo{
+    font-size: 40px;
 }
