@@ -10,12 +10,13 @@ body {
     margin: 0 auto;
     padding-top: 0.5%;
     padding-bottom: 0.5%;
-    font-size: large;
+    font-size: 20px;
 }
 .lista{
     max-width: 70%;
     margin: 0 auto;
     list-style: disc;
+    font-size: 17px;
 }
 .Listas2{
     list-style: none;
@@ -34,7 +35,7 @@ body {
     z-index: 5;
 }
 header{
-    background-color: rgba(225, 53, 53); /*esse é o rgb da cor da logo*/
+    background-color: rgba(225, 53, 53);
     padding-bottom: 3%;
     padding: auto 0;
     position: relative;
@@ -51,9 +52,11 @@ header, main, footer {
     background-color: rgb(246, 84, 84);
 }
 .artes{
-    height: 0 auto;
+    height: 0 auto; 
     width: 40%;
-    padding: 20px;
+    padding: 10px;
+    float: right;
+
 }
 #artes{
     height: 0 auto;
@@ -71,4 +74,12 @@ a{
 }
 .subtítulo{
     font-size: 40px;
+    color: rgba(255, 217, 55);
+}
+#artes2{
+    height: 0 auto; 
+    width: 40%;
+    padding: 10px;
+    float: left;
+
 }
