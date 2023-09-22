@@ -72,4 +72,10 @@ a{
 
 #título{
     color: rgba(250, 190, 40);
+    font-size: 70px;
+    font-size-adjust: initial
+}
+
+.subtítulo{
+    font-size: 40px;
 }

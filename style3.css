@@ -10,7 +10,7 @@ body {
     margin: 0 auto;
     padding-top: 0.5%;
     padding-bottom: 0.5%;
-    font-size: 20px;
+    font-size: large;
 }
 .lista{
     max-width: 70%;
@@ -34,7 +34,7 @@ body {
     z-index: 5;
 }
 header{
-    background-color: rgba(225, 53, 53);
+    background-color: rgba(225, 53, 53); /*esse é o rgb da cor da logo*/
     padding-bottom: 3%;
     padding: auto 0;
     position: relative;
@@ -71,5 +71,4 @@ a{
 }
 .subtítulo{
     font-size: 40px;
-    color: rgba(255, 217, 55);
 }
