@@ -1,0 +1,85 @@
+body {
+    text-align: center;
+    border: 6px solid rgba(255, 217, 55);
+    padding: 20px;
+    margin: 0;
+    background-color: rgb(232, 229, 229);
+}
+.testando{
+    max-width: 70%;
+    margin: 0 auto;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    font-size: 20px;
+}
+.lista{
+    max-width: 70%;
+    margin: 0 auto;
+    list-style: disc;
+    font-size: 17px;
+}
+.Listas2{
+    list-style: none;
+    padding: 0 auto;
+    display: inline-block;
+    margin-right: 10%;
+    font-size: xx-large;
+    padding-left: 24px;
+}
+.logo{
+    height: 0 auto;
+    width: 10%;
+    position: absolute;
+    left: 2px;
+    top: 0px;
+    z-index: 5;
+}
+header{
+    background-color: rgba(225, 53, 53);
+    padding-bottom: 3%;
+    padding: auto 0;
+    position: relative;
+}
+main{
+    z-index: 10;
+    position: sticky;
+}
+
+header, main, footer {
+    margin-bottom: 20px; /* Espaçamento entre os elementos */
+    padding: 10px;
+    border: 4px solid rgba(255, 217, 55);
+    background-color: rgb(246, 84, 84);
+}
+.artes{
+    height: 0 auto; 
+    width: 40%;
+    padding: 10px;
+    float: right;
+
+}
+#artes{
+    height: 0 auto;
+    width: 40%;
+    padding: 15px;
+}
+a{ 
+    color: rgba(255, 217, 55);
+    text-decoration: none;
+}
+#título{
+    color: rgba(250, 190, 40);
+    font-size: 70px;
+    font-size-adjust: initial
+}
+.subtítulo{
+    font-size: 40px;
+    color: rgba(255, 217, 55);
+}
+#artes2{
+    height: 0 auto; 
+    width: 40%;
+    padding: 10px;
+    float: left;
+
+}
