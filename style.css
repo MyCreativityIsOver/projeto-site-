@@ -19,6 +19,7 @@ body {
     margin: 0 auto;
     padding-top: 0.5%;
     padding-bottom: 0.5%;
+    font-size: 20px;
 }
 
 .lista{
@@ -78,4 +79,25 @@ a{
 
 .subtítulo{
     font-size: 40px;
+}
+.imagem1{
+    height: 0 auto; 
+    width: 40%;
+    padding: 10px;
+}
+.imagem2{
+    height: 0 auto; 
+    width: 40%;
+    padding: 10px;
+    float: left;
+}
+.imagem3{
+    height: 0 auto; 
+    width: 40%;
+    padding: 100px;
+    float: right;
+}
+#discurso{
+    width: 70%;
+    height: 0 auto;
 }
