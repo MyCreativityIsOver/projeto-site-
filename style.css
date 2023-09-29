@@ -98,11 +98,8 @@ a{
     float: right;
 }
 
-.imagem4{
-    
-}
-
 #discurso{
-    width: 70%;
-    height: 0 auto;
+    width: 100%;
+    height: auto;
+
 }
