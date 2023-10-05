@@ -9,7 +9,7 @@
 <h3> objetivo da atividade interdisciplinar:</h3>
 - criar e desenvolver um site com o tema sugerido pelos professores Gustavo e Matheus
 
-- <h4> o que é necessário no site:</h4>
+- <h3> o que é necessário no site:</h3>
 
 - texto de 6 laudas(digitado)
 - um vídeo(mínimo)
@@ -17,7 +17,7 @@
 - perguntas frequentes, sites externos, material de apoio, minimo 5 perguntas
 
   <ul>
- <h5> membros:</h5>
+ <h3> membros:</h3>
  <li>Dayana Vitória</li>
  <li>Gabriel Correia </li>
  <li>Isabele Viana</li>
