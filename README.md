@@ -1,6 +1,4 @@
-# projeto-site
-
-<h1> projeto interdisciplinar </h1>
+# projeto de site interdisciplinar
 
 <h2> disciplinas envolvidas: </h2>
 - história e programação front-end
