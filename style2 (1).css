@@ -5,29 +5,17 @@ body {
     margin: 0;
     background-color: rgb(232, 229, 229);
 }
-
-.Listas{
-    list-style: none;
-    padding: 0 auto;
-    display: inline-block;
-    margin-right: 10%;
-    font-size: xx-large;
-}
-
 .testando{
     max-width: 70%;
     margin: 0 auto;
     padding-top: 0.5%;
     padding-bottom: 0.5%;
-    font-size: 20px;
 }
-
 .lista{
     max-width: 70%;
     margin: 0 auto;
     list-style: disc;
 }
-
 .Listas2{
     list-style: none;
     padding: 0 auto;
@@ -36,7 +24,6 @@ body {
     font-size: xx-large;
     padding-left: 24px;
 }
-
 .logo{
     height: 0 auto;
     width: 10%;
@@ -45,14 +32,12 @@ body {
     top: 0px;
     z-index: 5;
 }
-
 header{
     background-color: rgba(225, 53, 53); /*esse é o rgb da cor da logo*/
     padding-bottom: 3%;
     padding: auto 0;
     position: relative;
 }
-
 main{
     z-index: 10;
     position: sticky;
@@ -64,62 +49,20 @@ header, main, footer {
     border: 4px solid rgba(255, 217, 55);
     background-color: rgb(246, 84, 84);
 }
-
+.imagens{
+    height: 0 auto;
+    width: 40%;
+    padding: 20px;
+}
+#artes{
+    height: 0 auto;
+    width: 40%;
+    padding: 15px;
+}
 a{ 
     color: rgba(255, 217, 55);
     text-decoration: none;
-    text-align: center;
 }
-
 #título{
     color: rgba(250, 190, 40);
-    font-size: 70px;
-    font-size-adjust: initial
-}
-
-.subtítulo{
-    font-size: 40px;
-}
-.imagem1{
-    height: 0 auto; 
-    width: 40%;
-    padding: 10px;
-}
-.imagem2{
-    height: 0 auto; 
-    width: 40%;
-    padding: 10px;
-    float: left;
-}
-.imagem3{
-    height: 0 auto; 
-    width: 40%;
-    padding: 100px;
-    float: right;
-}
-
-#discurso{
-    width: 100%;
-    height: auto;
-
-}
-
-.link{
-    max-width: 70%;
-    margin: 0 auto;
-    padding-top: 0.5%;
-    padding-bottom: 0.5%;
-    font-size: 25px;
-}
-
-.Perguntas{
-    max-width: 70%;
-    margin: 0 auto;
-    padding-top: 0.5%;
-    padding-bottom: 0.5%;
-    font-size: 30px;
-}
-
-#titu{
-    font-size: 50px;
 }
