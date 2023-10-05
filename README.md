@@ -4,7 +4,7 @@
 - história e programação front-end
 
 <h3> objetivo da atividade interdisciplinar:</h3>
-relacionar as disciplinas de história e front-end, com um projeto de pesquisa hitórica e programação
+- relacionar as duas disciplinas em um mesmo projeto , que une uma pesquisa hitórica aprofundada com programação HTML
 
 - <h3> o que é necessário no site:</h3>
 
