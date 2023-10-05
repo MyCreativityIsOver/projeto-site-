@@ -1,10 +1,9 @@
 # projeto-site
 
-<h1> projeto interdisciplinar das matérias de análise e desenvolvimento de dados </h1>
+<h1> projeto interdisciplinar </h1>
 
 <h2> disciplinas envolvidas: </h2>
-- história 
-- programação front-end
+- história e programação front-end
 
 <h3> objetivo da atividade interdisciplinar:</h3>
 - criar e desenvolver um site com o tema sugerido pelos professores Gustavo e Matheus
