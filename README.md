@@ -13,7 +13,7 @@
 
 - texto de 6 laudas(digitado)
 - um vídeo(mínimo)
-- uma animação para explicar algo(mínimo)
+- uma animação/gif para comlementar(mínimo)
 - perguntas frequentes, sites externos, material de apoio, minimo 5 perguntas
 
   <ul>
