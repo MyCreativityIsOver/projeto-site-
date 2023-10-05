@@ -4,7 +4,7 @@
 - história e programação front-end
 
 <h3> objetivo da atividade interdisciplinar:</h3>
-- criar e desenvolver um site com o tema sugerido pelos professores Gustavo e Matheus
+- Desenvolver um site com o auxilio do professor Matheus,com o tema "Revolução Russa", que foi sugerido pelo professor Gustavo
 
 - <h3> o que é necessário no site:</h3>
 
