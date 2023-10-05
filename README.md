@@ -1,6 +1,6 @@
 # projeto de site interdisciplinar
 
-<h2> disciplinas envolvidas: </h2>
+<h3> disciplinas envolvidas no projeto: </h3>
 - história e programação front-end
 
 <h3> objetivo da atividade interdisciplinar:</h3>
