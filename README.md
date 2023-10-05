@@ -1,10 +1,7 @@
-# projeto-site
+# projeto de site interdisciplinar
 
-<h1> projeto interdisciplinar das matérias de análise e desenvolvimento de dados </h1>
-
-<h2> disciplinas envolvidas: </h2>
-- história 
-- programação front-end
+<h3> disciplinas envolvidas no projeto: </h3>
+- história e programação front-end
 
 <h3> objetivo da atividade interdisciplinar:</h3>
 - criar e desenvolver um site com o tema sugerido pelos professores Gustavo e Matheus
@@ -13,7 +10,7 @@
 
 - texto de 6 laudas(digitado)
 - um vídeo(mínimo)
-- uma animação/gif para complementar(mínimo)
+- uma animação/gif para comlementar(mínimo)
 - perguntas frequentes, sites externos, material de apoio, minimo 5 perguntas
 
   <ul>
@@ -25,5 +22,4 @@
  <li>Pedro Dias</li>
  <li>Rayka Birochi</li>
   <li>Thomas Appelt</li>
-</ul>
-
+  </ul>
