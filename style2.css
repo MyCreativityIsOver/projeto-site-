@@ -36,10 +36,6 @@ header{
     padding: auto 0;
     position: relative;
 }
-/*main{
-    z-index: 10;
-    position: sticky;
-}*/
 .texto{
     max-width: 70%;
     margin: 0 auto;
@@ -58,7 +54,7 @@ header{
 #título{
     color: rgba(250, 190, 40);
     font-size: 70px;
-    max-width: 70%;
+    max-width: 60%;
     margin: 0 auto;
     padding-top: 0.5%;
     padding-bottom: 0.5%;
@@ -73,10 +69,8 @@ header{
     z-index: 5;
 }
 #gif{
-    width: 30%;
-    height: 0 auto;
     position: absolute;
-    top: 0;
-    right: 0;
-    z-index: 1;
+    right: 4px;
+    top: 7px;
+    z-index: 5;
 }
