@@ -6,6 +6,14 @@ body {
     background-color: rgb(232, 229, 229);
 }
 
+.Listas{
+    list-style: none;
+    padding: 0 auto;
+    display: inline-block;
+    margin-right: 10%;
+    font-size: xx-large;
+}
+
 .testando{
     max-width: 70%;
     margin: 0 auto;
@@ -18,7 +26,7 @@ body {
     max-width: 70%;
     margin: 0 auto;
     list-style: disc;
-    font-size: 25px;
+    font-size: 19px;
 }
 
 .Listas2{
@@ -67,12 +75,12 @@ a{
 #título{
     color: rgba(250, 190, 40);
     font-size: 70px;
-    font-size-adjust: initial
+    margin-right: 30px;
 }
 
 .subtítulo{
     font-size: 40px;
-    color: rgba(250, 190, 40);
+    color: rgba(255, 217, 55);
 }
 .imagem1{
     height: 0 auto; 
@@ -90,10 +98,6 @@ a{
     width: 40%;
     padding: 100px;
     float: right;
-}
-
-.imagem4{
-    margin-top: 10px;
 }
 
 #discurso{
@@ -120,19 +124,15 @@ a{
 
 #titu{
     font-size: 50px;
-    color: rgba(250, 190, 40);
 }
 
-.sub{
-    font-size: xx-large;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    color: rgba(250, 190, 40)
-
-}
-.gif{
+#gif{
     position: absolute;
     right: 4px;
     top: 7px;
     z-index: 5;
+}
+
+#consequencia{
+    font-size: 19px;
 }

@@ -68,7 +68,6 @@ a{
 #título{
     color: rgba(250, 190, 40);
     font-size: 70px;
-
 }
 .subtítulo{
     font-size: 40px;
@@ -79,4 +78,7 @@ a{
     right: 4px;
     top: 7px;
     z-index: 5;
+}
+.legenda{
+    margin: 2px;
 }
