@@ -26,10 +26,6 @@ header, main, footer {
     width: 30%;
     padding: 20px;
 }
-a{ 
-    color: rgba(255, 217, 55);
-    text-decoration: none;
-}
 header{
     background-color: #F65454;
     padding-bottom: 3%;
@@ -73,4 +69,8 @@ header{
     right: 4px;
     top: 7px;
     z-index: 5;
+}
+.abc{
+    color: transparent;
+    text-decoration: none;
 }
