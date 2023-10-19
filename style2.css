@@ -74,3 +74,25 @@ header{
     color: transparent;
     text-decoration: none;
 }
+a{ 
+    color: rgba(255, 217, 55);
+    text-decoration: none;
+    text-align: center;
+}
+#titu{
+    font-size: 50px;
+}
+.Perguntas{
+    max-width: 70%;
+    margin: 0 auto;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    font-size: 30px;
+}
+.link{
+    max-width: 70%;
+    margin: 0 auto;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    font-size: 25px;
+}
