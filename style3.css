@@ -10,13 +10,13 @@ body {
     margin: 0 auto;
     padding-top: 0.5%;
     padding-bottom: 0.5%;
-    font-size: 20px;
+    font-size: 40px;
 }
 .lista{
     max-width: 70%;
     margin: 0 auto;
     list-style: disc;
-    font-size: 17px;
+    font-size: 30px;
 }
 .Listas2{
     list-style: none;
