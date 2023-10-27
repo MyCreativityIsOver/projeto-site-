@@ -15,18 +15,24 @@ body {
 }
 
 .testando{
-    max-width: 70%;
-    margin: 0 auto;
+    /*max-width: 90%;
+    margin: 0 auto;*/
     padding-top: 0.5%;
     padding-bottom: 0.5%;
-    font-size: 20px;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    font-size: 30px;
+    text-align: justify;
 }
 
 .lista{
-    max-width: 70%;
-    margin: 0 auto;
+    /*max-width: 70%;
+    margin: 0 auto;*/
+    padding-left: 1%;
+    padding-right: 1%;
     list-style: disc;
-    font-size: 19px;
+    font-size: 29px;
+    text-align: justify;
 }
 
 .Listas2{
@@ -111,7 +117,7 @@ a{
     margin: 0 auto;
     padding-top: 0.5%;
     padding-bottom: 0.5%;
-    font-size: 25px;
+    font-size: 30px;
 }
 
 .Perguntas{
@@ -119,7 +125,7 @@ a{
     margin: 0 auto;
     padding-top: 0.5%;
     padding-bottom: 0.5%;
-    font-size: 30px;
+    font-size: 40px;
 }
 
 #titu{
@@ -134,5 +140,8 @@ a{
 }
 
 #consequencia{
-    font-size: 19px;
+    font-size: 39px;
+}
+.direita{
+    display: inline-block;
 }
