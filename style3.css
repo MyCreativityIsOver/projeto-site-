@@ -6,11 +6,17 @@ body {
     background-color: rgb(232, 229, 229);
 }
 .testando{
-    max-width: 70%;
+    /*max-width: 70%;
     margin: 0 auto;
     padding-top: 0.5%;
     padding-bottom: 0.5%;
-    font-size: 40px;
+    font-size: 40px;*/
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    font-size: 30px;
+    text-align: justify;
 }
 .lista{
     max-width: 70%;
